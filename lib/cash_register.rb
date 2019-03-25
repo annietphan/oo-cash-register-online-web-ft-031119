@@ -15,8 +15,6 @@ class CashRegister
     self.last_transaction_amt = price * quantity
   end
 
-  def apply_discount
 
-  end
 
 end
